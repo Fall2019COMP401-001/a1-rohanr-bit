@@ -18,7 +18,7 @@ public class A1Example {
 
 		// Read in count of numbers to process
 		
-		// int count = scan.nextInt();
+		int count = scan.nextInt();
 		
 		
 		// Create an array to store numbers.
